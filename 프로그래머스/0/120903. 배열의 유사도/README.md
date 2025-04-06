@@ -1,6 +1,6 @@
 # [level 0] 배열의 유사도 - 120903 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120903?language=kotlin) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120903?language=javascript) 
 
 ### 성능 요약
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 04월 06일 23:40:02
+2025년 04월 06일 23:40:30
 
 ### 문제 설명
 
