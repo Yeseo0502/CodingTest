@@ -1,10 +1,10 @@
 # [level 0] 양꼬치 - 120830 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120830) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120830?language=javascript) 
 
 ### 성능 요약
 
-메모리: 74.6 MB, 시간: 15.00 ms
+메모리: 33.6 MB, 시간: 0.03 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 10월 22일 00:03:30
+2025년 04월 27일 21:57:41
 
 ### 문제 설명
 
