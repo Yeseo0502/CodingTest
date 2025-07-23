@@ -1,10 +1,10 @@
 # [level 0] 특정한 문자를 대문자로 바꾸기 - 181873 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181873) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181873?language=python3) 
 
 ### 성능 요약
 
-메모리: 89.9 MB, 시간: 19.26 ms
+메모리: 9.1 MB, 시간: 0.15 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 07월 23일 23:39:12
+2025년 07월 23일 23:41:06
 
 ### 문제 설명
 
